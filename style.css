@@ -1,0 +1,35 @@
+.inp
+{
+    border: 2px solid gray;
+    box-shadow: 4px 4px 8px gray;
+    width: 400px;
+}
+
+.divInp
+{
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sec1
+{
+    justify-content: center;
+}
+
+.src
+{
+    background-color: yellow;
+    box-shadow: 4px 4px 8px rgb(230, 159, 27);
+
+}
+
+.centered-image {
+  display: block;
+  margin: auto;
+}
+
+.btn-centered {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
